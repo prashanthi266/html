@@ -1,0 +1,9 @@
+<html>
+<body>
+<form>
+        <input placeholder="Your name" type="text" name="myfriendname">
+        <input placeholder="Your email address" type="email" name="email-address">
+        <textarea name="comment">Add your awesome comment here</textarea>
+    </form>
+</body>
+</html>
